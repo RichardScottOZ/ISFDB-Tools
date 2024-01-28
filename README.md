@@ -3,6 +3,10 @@
 ### https://isfdb.org/wiki/index.php/ISFDB_Downloads
 #### https://www.hostgator.com/help/article/how-to-import-your-mysql-database#ssh
 
+Issue a git clone command on the parent repository.
+Issue a git submodule init command.
+Issue a git submodule update command.
+
 A collection of Python 3 scripts and libraries to do analysis on a locally
 running copy of the [ISFDB](http://www.isfdb.org) database.  Whilst there are
 several scripts that replicate some of the functionality of that website at the

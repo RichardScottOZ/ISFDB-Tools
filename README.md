@@ -7,6 +7,9 @@ Issue a git clone command on the parent repository.
 Issue a git submodule init command.
 Issue a git submodule update command.
 
+##### https://github.com/datasets/country-codes/blob/master/data/country-codes.csv
+- various conda/pip shenanigans to install things
+- 
 A collection of Python 3 scripts and libraries to do analysis on a locally
 running copy of the [ISFDB](http://www.isfdb.org) database.  Whilst there are
 several scripts that replicate some of the functionality of that website at the

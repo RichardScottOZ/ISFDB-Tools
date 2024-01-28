@@ -1,4 +1,6 @@
 # ISFDB Tools - Tools to query a local copy of the ISFDB database
+## https://isfdb.org/wiki/index.php/ISFDB_Downloads
+### https://isfdb.org/wiki/index.php/ISFDB_Downloads
 
 A collection of Python 3 scripts and libraries to do analysis on a locally
 running copy of the [ISFDB](http://www.isfdb.org) database.  Whilst there are
